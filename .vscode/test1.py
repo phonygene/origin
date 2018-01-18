@@ -1,2 +1,4 @@
-print("yo!man!")
-print("yo!man!")
+print("yo!yaya!")
+print("yo!yaya!")
+print("yo!yaya!")
+print("urryyyyyy")
